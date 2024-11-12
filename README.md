@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, My name is Swapnil Dhokchaule</h1>
 <h3 align="center">A passionate DevOps Engineer from India</h3>
 
-- 🌏 I live in Shrirampur, Maharashtra, India
+- 🌏 I live in Shrirampur, Ahmadnagar, Maharashtra, India
 
 - 🌱 I’m currently learning **Ansible, Terraform, Docker, Kubernetes, CI/CD pipeline**
 
@@ -11,7 +11,7 @@
 
 - 📫 Reach me at **swapnildhokchaule1692000@gmail.com**
 
-- 📄 Know about my experiences [my-resume](https://docs.google.com/document/d/1mmFfpcsoybGQc93VflHg1zQcaJgsgNR9DiFX3rYdRsw/edit?usp=sharing)
+- 📄 [my-resume](https://docs.google.com/document/d/1mmFfpcsoybGQc93VflHg1zQcaJgsgNR9DiFX3rYdRsw/edit?usp=sharing)
 
 - ⚡ Fun fact - **I think I am lazzy because I automate things :)**
 
@@ -67,6 +67,6 @@
 </a> -->
 
 <h3 align="left">Socials:</h3>
-
+ 
 <a href="https://www.linkedin.com/in/swapnildhokchaule/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="linkedin" width="30" height="30">
-</a>
+</a> 
