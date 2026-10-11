@@ -44,7 +44,7 @@ This file is a GitHub profile README for my DevOps portfolio.
   <strong>Cloud & DevOps:</strong>
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/></a>
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/></a>
-  <a href="https://www.geeksforgeeks.org/basics-computer-networking/" target="_blank" rel="noreferrer"><img src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 128 128'%3E%3Ccircle cx='64' cy='64' r='42' fill='%2338c7f0' stroke='%23000' stroke-width='6'/%3E%3Ccircle cx='64' cy='64' r='54' fill='none' stroke='%23000' stroke-width='6' stroke-dasharray='2 12'/%3E%3Cg stroke='%23000' stroke-width='5' fill='none' stroke-linecap='round'%3E%3Cpath d='M22 64h84M64 22v84'/%3E%3Cpath d='M35 35c7 8 11 17 11 29s-4 21-11 29M93 35c-7 8-11 17-11 29s4 21 11 29M35 93c7-8 11-17 11-29s-4-21-11-29M93 93c-7-8-11-17-11-29s4-21 11-29'/%3E%3C/g%3E%3C/svg%3E" alt="Networking" width="40" height="40"/></a>
+  <a href="https://www.geeksforgeeks.org/basics-computer-networking/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/ios-filled/50/networking-manager.png" alt="Networking" width="40" height="40"/></a>
 </p>
 
 <p align="left">
